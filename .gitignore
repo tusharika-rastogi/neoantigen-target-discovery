@@ -1,0 +1,8 @@
+cat > ~/ExtremeSSD/neoantigen-target-discovery/.gitignore << 'EOF'
+data/
+tools/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+EOF
